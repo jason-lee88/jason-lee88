@@ -14,6 +14,7 @@ Some fun facts about me are:
 
  - My favorite song is currently Blueberry Eyes by MAX
  - I'm a big Tetris fan and follow competitive Tetris
+ - My favorite champions to play in League of Legends are Caitlyn and Mordekaiser
  - Sunny-side up is the best way to cook an egg
  - Mac & cheese has been my favorite food ever since I was born
  - I'm learning how to beatbox
