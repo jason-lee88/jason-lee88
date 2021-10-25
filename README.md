@@ -1,6 +1,6 @@
 ![githubheader](https://user-images.githubusercontent.com/62316622/111012843-7275e380-836b-11eb-8956-4167bed6b30a.png)
 # Hey, I'm Jason! 👋
-I'm from Stroudsburg, PA and I'm a third-year Computer Science student at Lehigh University in Bethlehem, PA. I'm aiming to become a software engineer after I graduate. My current focus is on learning Javascript development as well as database systems.
+I'm from Stroudsburg, PA and I'm a senior at Lehigh University studying Computer Science in Bethlehem, PA. I'm aiming to become a software engineer after I graduate. My current focus is on learning Javascript development as well as database systems.
 
 ### Contact
 You can find me on [Linkedin](https://www.linkedin.com/in/jasonlee88/) as well as my [personal website](https://jasonedwardlee.com).
