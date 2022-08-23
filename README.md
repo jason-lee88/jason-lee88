@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/62316622/186058632-953253c2-de81-4df8-af9b-5414168aba86.png)
 # Hey, I'm Jason! 👋
-I'm currently a Software Engineer at Lutron Electronics in Philadelphia PA. I recently graduated from Lehigh University with a Bachelor's of Science in Computer Science in May 2022. Most of my experience lies within front-end and back-end web development as well as database design/integration.
+I'm currently a Software Engineer at Lutron Electronics in Philadelphia PA. I recently graduated from Lehigh University in May 2022 with a Bachelor of Science in Computer Science. Most of my experience lies within front-end and back-end web development as well as database design/integration.
 
 ### Contact
 You can find me on [Linkedin](https://www.linkedin.com/in/jasonlee88/) as well as my [personal website](https://jasonedwardlee.com).
