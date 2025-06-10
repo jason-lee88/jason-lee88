@@ -1,16 +1,14 @@
-![Header](https://user-images.githubusercontent.com/62316622/186058632-953253c2-de81-4df8-af9b-5414168aba86.png)
-# Hey, I'm Jason! 👋
-I'm currently a Software Engineer at Lutron Electronics in Philadelphia PA. I recently graduated from Lehigh University in May 2022 with a Bachelor of Science in Computer Science. Most of my experience lies within front-end and back-end web development as well as database design/integration.
+### Hi there 👋 - Welcome to my Profile
+Currently I work as a Software Engineer at Lutron Electronics, working on full-stack applications
 
-### Contact
-You can find me on [Linkedin](https://www.linkedin.com/in/jasonlee88/) as well as my [personal website](https://jasonedwardlee.com).
-Also, feel free to contact me at [jason.e.lee8@gmail.com](mailto:jason.e.lee8@gmail.com)
+Outside of my job, this is where you you will find my secret sauce (I had too) for a lot of the different projects I have worked on.
 
-### Fun Facts
-Some fun facts about me are:
+* I'm working on a full-stack platform STEM tutoring platform --> [https://merchantmathtutor.com/](Merchant Math Tutoring) | [Repository](https://github.com/jason-lee88/merchant-math-tutoring)
+* I wrote an AutoHotkey script to auto-record my favorite games such as VALORANT using OBS, after being disappointed by existing clipping software --> [Repository](https://github.com/jason-lee88/juice-clips)
+* I created an application to search popular usernames from the Riot Games platform and calculate the availability based on automated account deletion (and used it to grab my own rare username!) --> [Repository](https://github.com/jason-lee88/riot-name-finder)
 
- - My favorite song is currently Glimpse of Us by Joji
- - I'm a big Tetris fan and can complete a 40-line sprint in under 40 seconds
- - My favorite champions to play in League of Legends are Caitlyn, Samira, and Mordekaiser
- - Sunny-side up is the best way to cook an egg
- - Mac & cheese has been my favorite food ever since I was born
+See it as you have made it this far and hopefully clicked on the previous links, you might as well contact me
+
+The best place to reach me is my email jason.e.lee8@gmail.com
+
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/jasonlee88/)
